@@ -1,7 +1,6 @@
 # Java-GUI-Application---Mapping-Earthquake-data-with-UnfoldingMaps
 Use UnfoldingMaps library to build a map which includes data points for recent earthquakes.
 
-
 1. Extract the zip file somewhere outside of your Eclipse
 workspace folder.
 2. Open Eclipse if it is not already open.
